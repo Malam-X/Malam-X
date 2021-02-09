@@ -8,9 +8,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Malam-X&layout=compact&theme=radical" />
 </a>
 
-<p align="center">
-    [![GitHub Malam-X](https://img.shields.io/github/followers/Malam-X?label=follow&style=social)](https://github.com/Malam-X)<br>
-    ![Malam-X](https://komarev.com/ghpvc/?username=Malam-X&label=Views&color=blue&style=plastic)
-</p>
+[![GitHub Malam-X](https://img.shields.io/github/followers/Malam-X?label=follow&style=social)](https://github.com/Malam-X)<br>
+![Malam-X](https://komarev.com/ghpvc/?username=Malam-X&label=Views&color=blue&style=plastic)
 
 [whatsapp]: https://wa.me/+6285731246143
