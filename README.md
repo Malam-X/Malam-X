@@ -11,6 +11,7 @@
 
 [![GitHub Malam-X](https://img.shields.io/github/followers/Malam-X?label=follow&style=social)](https://github.com/Malam-X)<br>
 ![Malam-X](https://komarev.com/ghpvc/?username=Malam-X&label=Views&color=blue&style=plastic)
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malam-x&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-
+<p align="center">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malam-x&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
 [whatsapp]: https://wa.me/+6285731246143
