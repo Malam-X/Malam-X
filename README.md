@@ -1,4 +1,4 @@
-# 💀 Python Programmer :)
+# 💀 
 <p align="center">
     <a href="https://github.com/Malam-X">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Malam-X&layout=compact&theme=radical&hide_border=true" />
